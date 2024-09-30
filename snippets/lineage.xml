@@ -39,6 +39,7 @@
   <project path="hardware/qcom-caf/sm8550/media" name="android_hardware_qcom_media" groups="qcom,kailua-vendor" remote="lineage" revision="lineage-22.0-caf-sm8550" />
 
    <!-- Pixel gs-common -->
+  <project path="hardware/google/camera" name="android_hardware_google_camera" remote="lineage" revision="lineage-22.0" />
   <project path="device/google/gs-common" name="android_device_google_gs-common" remote="lineage" revision="lineage-22.0" />
   <project path="hardware/qcom/sm7250/display" name="android_hardware_qcom_sm7250_display" groups="qcom,qcom_sm7250" remote="lineage-22.0" />
   <project path="hardware/qcom/sm7250/media" name="android_hardware_qcom_sm7250_media" groups="qcom,qcom_sm7250" remote="lineage-22.0" />

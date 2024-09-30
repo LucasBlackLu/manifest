@@ -113,6 +113,7 @@
   <remove-project name="platform/frameworks/opt/timezonepicker" />
 
   <!-- Hardware -->
+  <remove-project name="platform/hardware/google/camera" />
   <remove-project name="platform/hardware/google/gchips" />
   <remove-project name="platform/hardware/google/graphics/common" />
   <remove-project name="platform/hardware/google/pixel" />
